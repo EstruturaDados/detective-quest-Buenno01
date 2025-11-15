@@ -1,0 +1,16 @@
+# Arquivos de compilação
+*.o
+*.out
+detective_quest
+
+# Arquivos de sistema
+.DS_Store
+*.swp
+*.swo
+*~
+
+# Diretórios do IDE
+.vscode/
+.idea/
+*.code-workspace
+
